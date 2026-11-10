@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # TEXT-TO-SQL
-=======
+
 # Text-to-SQL Agent — 100% free stack
 
 A production-style **Text-to-SQL agent** you can run for **$0**: ask a question in English, get a
