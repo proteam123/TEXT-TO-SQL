@@ -1,0 +1,18 @@
+langgraph
+langchain-core
+langchain-groq
+langchain-google-genai
+sqlalchemy
+pandas
+streamlit
+fastapi
+uvicorn
+python-dotenv
+httpx
+
+# Optional free providers (install only the one you use):
+# langchain-google-genai
+# langchain-ollama
+
+# Tests:
+# pytest

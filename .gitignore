@@ -1,0 +1,40 @@
+# Local environment files; keep example templates shareable.
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and bytecode.
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test, coverage, and type-checker caches.
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.tox/
+
+# Generated SQLite databases and SQLite sidecar files.
+data/*.db
+data/*.db-*
+*.sqlite
+*.sqlite3
+
+# Logs and temporary files.
+*.log
+*.tmp
+*.temp
+
+# Build/package output.
+build/
+dist/
+*.egg-info/
+
+# Local Streamlit credentials.
+.streamlit/secrets.toml
